@@ -15,7 +15,7 @@ Built with:
   
 The designs were created to the following widths:
 - Max-width: 600px
-- 
+  
 ## Colors
 Blue: #0052ff
 Black: #0a0b0e, #000000
