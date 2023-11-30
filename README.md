@@ -5,7 +5,7 @@ Photo by <a href="https://unsplash.com/de/@generalbytes?utm_content=creditCopyTe
 
 ![](email-preview.jpeg)
 
-- Live Site URL: [Add live site URL here](https://ryoshi1001.github.io/GoFinance-Newsletter-Email/)
+- Live Site URL: [(https://ryoshi1001.github.io/GoFinance-Newsletter-Email/)]
 
 Built with:
 - HTML5 
