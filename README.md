@@ -1,6 +1,6 @@
 # GoFinance-Newsletter-Email
-Custom hand-coded HTML inline CSS newsletter Email.
-Custom unbranded created all content, layout, logo, and idea. 
+Custom hand-coded HTML inline CSS newsletter Email.<br>
+Custom unbranded created all content, layout, logo, and idea.<br> 
 Photo by <a href="https://unsplash.com/de/@generalbytes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">GENERAL BYTES</a> on <a href="https://unsplash.com/de/fotos/ein-display-in-einem-geschaft-mit-einem-bitcoin-automaten-davor-n0TeMHrPJ38?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ![](email-preview.jpeg)
