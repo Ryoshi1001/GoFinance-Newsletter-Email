@@ -3,7 +3,7 @@ Custom hand-coded HTML inline CSS newsletter Email.
 Custom unbranded created all content, layout, logo, and idea. 
 Photo by <a href="https://unsplash.com/de/@generalbytes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">GENERAL BYTES</a> on <a href="https://unsplash.com/de/fotos/ein-display-in-einem-geschaft-mit-einem-bitcoin-automaten-davor-n0TeMHrPJ38?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-![](email-preview-newsletter.jpeg)
+![](email-preview.jpeg)
 
 - Live Site URL: [Add live site URL here](https://ryoshi1001.github.io/GoFinance-Newsletter-Email/)
 
